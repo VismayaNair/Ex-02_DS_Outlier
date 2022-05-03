@@ -48,5 +48,13 @@ IQR=q3-q1
 df2_new=df2[((df2>=q1-1.5*IQR)&(df2<=q3+1.5*IQR)).all(axis=1)]
 df2_new.boxplot()
 df2_new
+~~~
+# OUTPUT :
+![output](new11.png)
+![output](new12.png)
+![output](output3.png)
+![output](Q4.png)
 
+# RESULT :
 
+Thus the outliers are detected and removed from the dataset .
