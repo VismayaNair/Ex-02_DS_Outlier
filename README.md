@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  # EXPERIMENT 2 :
 
 # AIM:
@@ -58,3 +59,5 @@ df2_new
 # RESULT :
 
 Thus the outliers are detected and removed from the dataset .
+
+
